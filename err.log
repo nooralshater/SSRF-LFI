@@ -1,0 +1,14 @@
+time="2026-10-28T10:24:15+03:00" level=warning msg="/home/nalshate/professional_training/module03/ex02/pro_02/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Network pro_02_default Removing 
+ Network pro_02_default Removed 
+time="2026-10-28T10:24:16+03:00" level=warning msg="/home/nalshate/professional_training/module03/ex02/pro_02/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Image pro_02-ssrf-lfi-app Building 
+ Image pro_02-ssrf-lfi-app Built 
+ Network pro_02_default Creating 
+ Network pro_02_default Creating 
+ Network pro_02_default Created 
+ Network pro_02_default Created 
+ Container pro_02-ssrf-lfi-app-1 Creating 
+ Container pro_02-ssrf-lfi-app-1 Created 
+ Container pro_02-ssrf-lfi-app-1 Starting 
+ Container pro_02-ssrf-lfi-app-1 Started 
